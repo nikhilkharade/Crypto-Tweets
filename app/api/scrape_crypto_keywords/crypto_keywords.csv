@@ -1,0 +1,865 @@
+,0
+0, Decentralized API (dAPI)
+1, Shielded Transaction
+2,1hr
+3,24hr
+4,30d
+5,51% Attack
+6,7d
+7,Abstract
+8,Account
+9,Accumulation/Distribution Indicator
+10,Adam Back
+11,Address
+12,Adoption Curve
+13,Air Gap
+14,Airdrop
+15,Airnode
+16,Algo-Trading (Algorithmic Trading)
+17,Algorithm
+18,Algorithmic Market Operations (AMOs)
+19,Algorithmic Stablecoin
+20,All-Time-High (ATH)
+21,All-Time-Low (ATL)
+22,Allocation
+23,Alphanumeric
+24,Altcoin
+25,Altcoin Trader
+26,Amazon S3
+27,AMLD5
+28,Anarcho-capitalism
+29,Angel Investor
+30,Annual Percentage Rate (APR)
+31,Annual Percentage Yield (APY)
+32,Anonymous
+33,Anti-dump/Anti-Dumping Policy
+34,Anti-Fragile
+35,Anti-Malware
+36,Anti-Money Laundering (AML)
+37,Antivirus
+38,Apeing
+39,API
+40,Arbitrage
+41,Aroon Indicator
+42,Ashdraked
+43,ASIC
+44,ASIC-Resistant
+45,Ask Price
+46,Asset-Backed Tokens
+47,Assets Under Management (AUM)
+48,Astroturfing
+49,Asynchronous
+50,Atomic Swap
+51,AtomicDEX
+52,Attestation Ledger
+53,Auction
+54,Audit
+55,Augmented Reality (AR)
+56,Authentication
+57,Automated Market Maker (AMM) [Updated]
+58,Average Directional Index (ADX)
+59,Bag
+60,Bagholder
+61,Bakers
+62,Baking
+63,Bandwidth
+64,Bank for International Settlements (BIS)
+65,Banking as a Service (BaaS)
+66,Banking Secrecy Act (BSA)
+67,Basket
+68,Batch Auctions
+69,Beacon Chain
+70,Bear
+71,Bear Trap
+72,Bearwhale
+73,Benchmark
+74,Benchmark Index
+75,BEP-2 (Binance Chain Tokenization Standard)
+76,BEP-20
+77,BEP-721
+78,BEP-95 (Bruno Hard Fork Upgrade)
+79,Beta (Release)
+80,Bid Price
+81,Bid-Ask Spread
+82,Big Tech
+83,Binance Labs
+84,Binance Launchpad
+85,Binary Code
+86,Bit
+87,Bitcoin ATM (BTM)
+88,Bitcoin Dominance (BTCD)
+89,Bitcoin Improvement Proposal (BIP)
+90,Bitcoin Pizza
+91,Bitcoiner
+92,Bitcointalk
+93,BitLicense
+94,BitPay
+95,Bits
+96,Black Swan Event
+97,Block
+98,Block Explorer
+99,Block Header
+100,Block Height
+101,Block Producer
+102,Block Reward
+103,Block Size
+104,Block Time
+105,Block Trade
+106,Blockchain
+107,Blockchain 1.0
+108,Blockchain 2.0
+109,Blockchain 3.0
+110,Blockchain Explorer
+111,Blockchain Trilemma
+112,Blockchain-Enabled Smart Locks
+113,Bollinger Band
+114,Bonding Curve
+115,Bots
+116,Bounty
+117,Brave Browser
+118,Breaking
+119,Brian Armstrong 
+120,Bridges
+121,Browser Extension
+122,Brute Force Attack (BFA)
+123,Bubble
+124,Bug Bounty
+125,Bug Exploit
+126,Bull
+127,Bull Trap
+128,Burn/Burned
+129,Buy The (F*******) Dip (BTD/BTFD)
+130,Buy Wall
+131,Byzantine Fault Tolerance (BFT)
+132,Byzantine Generals’ Problem
+133,Byzantium Fork
+134,C++
+135,Call Options
+136,Candlesticks
+137,Capital
+138,Capital Efficiencies
+139,Capital Funds
+140,Capitulation
+141,Casascius Coin
+142,Cash
+143,Cathie Wood
+144,CeDeFi
+145,Censorship
+146,Censorship Resistance
+147,Central Bank
+148,Central Bank Digital Currency
+149,Central Ledger
+150,Central Processing Unit (CPU)
+151,Centralized
+152,Centralized Exchange (CEX)
+153,Certificate of Deposit (CD)
+154,Chain Reorganization
+155,Chain Split
+156,Change
+157,Change Address
+158,Changpeng Zhao (CZ)
+159,Chargeback
+160,Chicago Mercantile Exchange (CME)
+161,Cipher
+162,Ciphertext
+163,Circulating Supply
+164,Client
+165,Close
+166,Cloud
+167,Cloud Mining
+168,Co-Signer
+169,Code
+170,Coin
+171,Coin Mixer
+172,Coinbase
+173,Cold Storage
+174,Cold Wallet
+175,Collateral
+176,Collateral Tokens
+177,Collateralization
+178,Collateralized Debt Obligation
+179,Collateralized Debt Position (CDP)
+180,Collateralized Mortgage Obligation (CMO)
+181,Collateralized Stablecoin
+182,Commingling
+183,Commodity Futures Trading Commission (CFTC)
+184,Composable Token
+185,Confirmation
+186,Confirmations
+187,Consensus
+188,Consensus Mechanism
+189,ConsenSys
+190,Consortium Blockchain
+191,Consumer Price Index (CPI)
+192,Contract
+193,Contract Account
+194,Contract for Difference (CFD)
+195,Coordinator
+196,Core Wallet
+197,Corporate Treasury
+198,Correction
+199,CPU Miner
+200,Craig Wright
+201,Craig Wright
+202,Credit Rating
+203,Credit Risk
+204,Cross-Border Trading
+205,Cross-Chain
+206,Cross-Chain Communication
+207,Crowdfunding
+208,Crowdloan
+209,Crypto Debit Card
+210,Cryptoasset
+211,Cryptocurrency
+212,Cryptocurrency Money Laundering
+213,Cryptocurrency Pairs
+214,Cryptographic Hash Function
+215,Cryptography
+216,Cryptojacking
+217,Cryptology
+218,Currency
+219,Currency Crisis
+220,Curve AMO
+221,Custodial
+222,Custodian
+223,Custody
+224,Cypherpunk
+225,Dark Web
+226,Darknodes
+227,Data Privacy
+228,Data Scraping
+229,Date of Launch
+230,Day Trading
+231,Dead Cat Bounce
+232,Dead Coin
+233,Death Cross
+234,Decentralized
+235,Decentralized Applications (DApps)
+236,Decentralized Autonomous Initial Coin Offerings (DAICO)
+237,Decentralized Autonomous Organizations (DAO)
+238,Decentralized Currency
+239,Decentralized Database
+240,Decentralized Exchange (DEX)
+241,Decentralized Governance
+242,Decentralized Identifier (DID)
+243,Decentralized Marketplace
+244,Decentralized Network
+245,Decentralized Payment Network
+246,Decentralized Social Media
+247,Decentralized Stablecoin
+248,Decryption
+249,Deep Web
+250,DeFi
+251,DeFi Aggregator
+252,DeFi Degens
+253,Deflation
+254,Delegated Proof-of-Stake (dPOS)
+255,Delisting
+256,Denial-of-Service (DoS) Attack
+257,Depth Chart
+258,Derivative
+259,Derivatives Market
+260,Deterministic Wallet
+261,Dex Aggregator
+262,Diamond Hands
+263,Difficulty
+264,Digital
+265,Digital Art
+266,Digital Asset
+267,Digital Asset Custodian
+268,Digital Asset Ecosystem
+269,Digital Barter Economy
+270,Digital Commodity
+271,Digital Currency
+272,Digital Dollar
+273,Digital Identity
+274,Digital Signature
+275,Dildo
+276,Dip
+277,Directed Acyclic Graph (DAG)
+278,Discord
+279,Distributed Consensus
+280,Distributed Denial of Service (DDoS) Attack
+281,Distributed Ledger
+282,Distributed Ledger Technology (DLT)
+283,Distributed Network
+284,Diversification
+285,Documentation
+286,Dolphin
+287,Dominance
+288,Dorian Nakamoto
+289,DotSama
+290,Double Spend Attack
+291,Double Spending
+292,Dual-Token Economy/Model (Two-Token Economy)
+293,Dump
+294,Dumping
+295,Dust Transactions
+296,Dusting Attack
+297,DYCO (Dynamic Coin Offering)
+298,DYOR
+299,E-Signature
+300,Economic Utility
+301,Edge Nodes
+302,ELI5
+303,Elliott Waves
+304,EMA (Exponential Moving Average)
+305,Email Spoofing
+306,Emission
+307,Encryption
+308,Enterprise Ethereum Alliance (EEA)
+309,Epoch
+310,Equity
+311,Erasure Encoding
+312,ERC-1155
+313,ERC-20
+314,ERC-223
+315,ERC-721
+316,ERC-777
+317,ERC-827
+318,ERC-884
+319,ERC-948
+320,Escrow
+321,Esports
+322,Ethash
+323,Ether
+324,Ethereum Improvement Proposal (EIP)
+325,Ethereum Transaction
+326,Ethereum Virtual Machine (EVM)
+327,Exchange
+328,Exchange Traded Fund (ETF)
+329,Exit Scam
+330,Falling Knife
+331,Falling Wedge
+332,Fan Token
+333,FATF Travel Rule
+334,Faucet
+335,Fee Tiers
+336,Fiat
+337,Fiat On-Ramp
+338,Fiat-Pegged Cryptocurrency
+339,Fibonacci Retracement Level
+340,Financial Action Task Force (FATF)
+341,Financial Crime Enforcement Network (FinCEN)
+342,Financial Transactions and Reports Analysis Centre (FINTRAC)
+343,"First In, First Out"
+344,First-Mover Advantage (FMA)
+345,Fish
+346,Flash Crash
+347,Flash Loan
+348,Flash Loan Attack
+349,Flash Loans
+350,Flippening
+351,Flipping
+352,FOMO
+353,Fork (Blockchain)
+354,Fork (Software)
+355,Fractional Stablecoins
+356,Fraud Proof
+357,Front Running
+358,FUD [2021]
+359,FUDster
+360,Full Node
+361,Fully Homomorphic Encryption
+362,Fundamental Analysis (FA)
+363,Funding Payments
+364,Fungible
+365,Futures
+366,Gains
+367,Game Channels
+368,Game Theory
+369,GameFi
+370,Gas
+371,Gas Limit
+372,Gas Price
+373,Gavin Wood
+374,Gems
+375,Genesis Block
+376,Geotagged NFT
+377,Geth
+378,GitHub
+379,Gold-Backed Cryptocurrency
+380,Golden Cross
+381,Google Authenticator
+382,Governance
+383,Governance Token
+384,Graphical Processing Unit (GPU)
+385,Greater Fool Theory
+386,Group Mining
+387,Gwei
+388,Hacking
+389,Hal Finney
+390,Halving
+391,Hard Cap
+392,Hard Fork (Blockchain)
+393,Hardware Security Module
+394,Hardware Wallet
+395,Hash
+396,Hash Function
+397,Hash Power / Hash Rate
+398,Hidden Cap
+399,Hierarchical Deterministic Wallet (HD Wallet)
+400,HODL
+401,Honeyminer
+402,Hosted Wallet
+403,Hot Storage
+404,Hot Wallet
+405,Howey Test
+406,Hybrid PoW/PoS
+407,Hyperledger (Hyperledger Foundation)
+408,Immutable
+409,Impermanent Loss
+410,In-the-Money / Out-of-the-Money
+411,Infinite Approval
+412,Infinite Mint Attack
+413,Inflation
+414,Initial Bounty Offering (IBO)
+415,Initial Coin Offering (ICO)
+416,Initial Dex Offering (IDO)
+417,Initial Exchange Offering
+418,Initial Farm Offering (IFO)
+419,Initial Game Offering (IGO)
+420,Initial Public Offering (IPO)
+421,Initial Token Offering (ITO)
+422,Insider Trading
+423,Instamine
+424,Instant Settlement Network Layer
+425,Institutional Investor
+426,Insurance Fund
+427,Intercontinental Exchange (ICE)
+428,Interest Rates
+429,Intermediary/Middleman
+430,Internal Transaction
+431,Internet Memes
+432,Internet of Things
+433,Internet Service Provider (ISP)
+434,Interoperability
+435,InterPlanetary File System (IPFS)
+436,Intrinsic Value
+437,Invest
+438,Investment Vehicles (Crypto-tied)
+439,IOU
+440,IP Address
+441,Java
+442,JavaScript
+443,JOMO
+444,Keylogger
+445,Kimchi Premium
+446,Klinger Oscillator
+447,Know Your Customer (KYC)
+448,Lambo
+449,Large Cap
+450,Laser Eyes
+451,Layer 0
+452,Layer 2
+453,Layer-1 Blockchain
+454,Ledger
+455,Leverage
+456,Leveraged Tokens
+457,Light Node
+458,Lightning Network
+459,Limit Order
+460,Limit Order/Limit Buy/Limit Sell
+461,Liquid Market
+462,Liquidation
+463,Liquidity
+464,Liquidity Bootstrapping Pool (LBP)
+465,Liquidity Mining
+466,Liquidity Pool
+467,Liquidity Provider
+468,Liquidity Provider Tokens (LP Tokens)
+469,Liveness
+470,Location Swap
+471,Long
+472,Longing (Long Position)
+473,Mainnet
+474,Mainnet Swap
+475,Malware
+476,Man-in-the-Middle Attack (MITM)
+477,Margin Call
+478,Margin Trading
+479,Market
+480,Market Capitalization/Market Cap/MCAP
+481,"Market Maker, Market Taker"
+482,Market Order/Market Buy/Market Sell
+483,Market Signal
+484,Masternodes
+485,Max Supply
+486,Medium of Exchange
+487,Megahashes Per Second
+488,Memecoin
+489,Memorandum of Understanding (MoU)
+490,Mempool
+491,Mercenary Capital
+492,Merkle Tree
+493,MetaMask
+494,Metaverse
+495,Micro Cap
+496,MicroBitcoin (uBTC)
+497,Micropayment
+498,Microtransaction
+499,Mid Cap
+500,MilliBitcoin
+501,Mimetic Theory
+502,Mineable
+503,Minecraft
+504,Miner Extractable Value (MEV)
+505,Miners
+506,Minimum Viable Product (MVP)
+507,Mining
+508,Mining Contract
+509,Mining Difficulty
+510,Mining Farm
+511,Mining Pool
+512,Mining Reward
+513,Mining Rewards
+514,Mining Rig
+515,Minnow
+516,Minting
+517,Mnemonic Phrase
+518,Mnemonics
+519,Mobile Wallet
+520,Moloch DAO
+521,Monetary Authority of Singapore (MAS)
+522,Monetary Policy
+523,Money Flow Index (MFI)
+524,Money Laundering
+525,Money Transfer License
+526,Money Transmitter
+527,Moon
+528,Moore's Law
+529,Moving Average (MA)
+530,Moving Average Convergence Divergence (MACD)
+531,Mt. Gox
+532,Multi-Coin Wallet
+533,Multi-Party Computation
+534,Multi-Party Computation as-a-Service
+535,Multi-Signature (Multi-Sig)
+536,Multisignature
+537,Negative Volume Index (NVI)
+538,Network
+539,Newb
+540,Nick Szabo
+541,Nifty Gateway
+542,No-Coiner
+543,Node
+544,Nominators
+545,Non-Custodial
+546,Non-Fungible Token (NFT)
+547,Nonce
+548,Notarization on Blockchain
+549,Off-Chain
+550,Off-Chain Governance
+551,Off-Chain Transaction
+552,Off-Ledger Currency
+553,Office of the Comptroller of the Currency (OCC)
+554,Offline Storage
+555,Offshore Account
+556,OHM Fork
+557,On-Balance Volume (OBV)
+558,On-Chain
+559,On-Chain Governance
+560,On-Ledger Currency
+561,One Cancels the Other Order (OCO)
+562,Online Storage
+563,Open Source
+564,Open/Close
+565,OpenSea [2021]
+566,Optimistic Rollup
+567,Option
+568,Options Market
+569,Oracle Manipulation
+570,Oracles
+571,Order Book
+572,Orphan
+573,Orphaned Block
+574,Over-Collateralization
+575,Over-the-Counter (OTC)
+576,Over-the-Counter (OTC) Trading
+577,Overbought
+578,Oversold
+579,Pair
+580,Paper Trading
+581,Paper Wallet
+582,Parachain
+583,Participation Node
+584,Passive Income
+585,Password Manager
+586,Paul Le Roux
+587,Payee
+588,Peer-to-Peer (P2P)
+589,Peer-to-Peer (P2P) Lending 
+590,Peg
+591,Pegged Currency
+592,Permissioned Ledger
+593,Permissionless
+594,Perpetual Contracts
+595,Phishing
+596,Phone Phishing
+597,Physical Bitcoins
+598,Platform
+599,Play-to-Earn (Play2Earn)
+600,Play2Earn (Play-to-Earn)
+601,Player Payout
+602,Ponzi Scheme
+603,Portfolio
+604,Post-Mine
+605,Pre-IDO
+606,Pre-Mine
+607,Pre-Sale
+608,Prediction Market
+609,Price Impact
+610,Private Blockchain
+611,Private Key/Secret Key
+612,Programmability
+613,Proof of Attendance Protocol
+614,Proof-of-Authority (PoA)
+615,Proof-of-Burn
+616,Proof-of-Burn (PoB)
+617,Proof-of-Developer (PoD)
+618,Proof-of-Donation
+619,Proof-of-Replication
+620,Proof-of-Spacetime
+621,Proof-of-Stake (PoS)
+622,Proof-of-Validation
+623,Proof-of-Work (PoW)
+624,Protocol
+625,Pseudonymous
+626,Public Address
+627,Public Blockchain
+628,Public Key
+629,Public Sale
+630,Public-Key Cryptography
+631,Public-Key Infrastructure
+632,Pump and Dump (P&D) Scheme
+633,Put Option
+634,Pyramid Scheme
+635,QR Code
+636,Quantum Computing
+637,Quorum (Governance
+638,Radio Frequency Identification (RFID)
+639,Raiden Network
+640,Rank
+641,Ransomware
+642,Rebalancing
+643,Rebase
+644,Recovery Seed
+645,Regional/Local/Community Currencies
+646,Regulated
+647,Regulatory Compliance
+648,Rehypothecation
+649,Rehypothecation
+650,REKT
+651,Relative Strength Index (RSI)
+652,Relay Chain
+653,Relay Nodes
+654,Repair Miners
+655,Replay Attack
+656,Replicated Ledger
+657,Resistance (Line/Level)
+658,Retargeting
+659,Revenue Participation Tokens
+660,Reverse Indicator
+661,Ring CT (Confidential Transactions)
+662,Ring Miners
+663,Ring Signature
+664,Roadmap
+665,Roger Ver
+666,ROI
+667,Roth IRA
+668,Rug Pull
+669,Rust
+670,Ryuk Ransomware
+671,S&P 500 (Standard and Poor's 500)
+672,Satoshi (SATS)
+673,Satoshi Nakamoto
+674,Scaling Problem
+675,Scaling Solution
+676,Scam
+677,Scamcoin
+678,Scammer
+679,Scholarship/Scholar
+680,Script
+681,Scrypt
+682,Second-Layer Solutions
+683,Secondary Market
+684,Secure Element
+685,Secure Multi-Party Computation (sMPC)
+686,Securities and Exchange Commission (SEC)
+687,Security
+688,Security Token
+689,Security Token Offering
+690,Seed Phrase
+691,Segregated Witness (SegWit)
+692,Selfish Mining
+693,Sell Wall
+694,Semantic Web
+695,Settlement Layer
+696,SHA-256
+697,Shard
+698,Shard Chain
+699,Sharding
+700,Shilling
+701,Shitcoin
+702,SHO (Strong Holder Offering)
+703,Short
+704,Side Chain
+705,Side Channel Attack
+706,Signal
+707,Silk Road
+708,SIM-Swap
+709,Simplified Payment Verification (SPV)
+710,Slippage
+711,Smart Contract
+712,Smart Contract Audit
+713,Smart Token
+714,Social Engineering
+715,Soft Cap
+716,Soft Fork (Blockchain)
+717,Software Library
+718,Solidity
+719,Source Code
+720,SPAC
+721,Spear Phishing
+722,Speculative Investment
+723,Spoon (Blockchain)
+724,Spot
+725,Spot Market
+726,Spyware
+727,Stablecoin
+728,Staking
+729,Staking Pool
+730,Stale Block
+731,State Channel
+732,Stochastic Oscillator
+733,Stop-Loss Order
+734,Storage (Decentralized)
+735,Storage Miners
+736,Store of Value
+737,Substrate
+738,Supercomputer
+739,Supply and Demand
+740,Supply Chain
+741,Supply Chain Attack
+742,Swing Failure Pattern (SFP)
+743,Swing Trading
+744,Sybil Attack
+745,Symbol
+746,Synthetic Asset
+747,Taint
+748,Tamper-Proof Ledger
+749,Tangle
+750,Taproot
+751,Technical Analysis/Trend Analysis (TA)
+752,Technical Indicators
+753,Testnet
+754,The DAO
+755,Think Long Term (TLT)
+756,This Is Gentlemen
+757,Throughput
+758,Ticker
+759,Ticker Symbol
+760,Timelock/Locktime
+761,Timestamp
+762,Tipset
+763,Token
+764,Token Economy
+765,Token Generation Event
+766,Token Issuance
+767,Token Lockup
+768,Token Migration
+769,Token Sale
+770,Token Standard
+771,Token Swap
+772,Tokenize
+773,Tokenized Securities
+774,Tokenomics
+775,Toll Bridge
+776,Tor
+777,Total Supply
+778,Total Value Locked (TVL)
+779,Trade Volume
+780,Trading Bot
+781,Trading Tournament
+782,Trading Volume
+783,Transaction (TX)
+784,Transaction Fee
+785,TRC-10 (TRON)
+786,Treasury Bills (T-Bills)
+787,Trojan
+788,Trust
+789,Trustless
+790,Tumbler
+791,Turing-Complete
+792,Two-Factor Authentication (2FA)
+793,Typosquatting
+794,Unbanked
+795,Unconfirmed
+796,Unpermissioned Ledger
+797,Unspent Transaction Output (UTXO)
+798,Unstoppable Domains
+799,US Office of Foreign Assets Control (OFAC)
+800,UTC Time
+801,Utility Token
+802,Validator
+803,Vanity Address
+804,Vaporware
+805,Venture Capital
+806,Verification Code
+807,Virgin Bitcoin
+808,Virtual Automated Market Makers (vAMMs)
+809,Virtual Reality (VR)
+810,Virus
+811,Vitalik Buterin
+812,Volatility
+813,Volume
+814,Wallet
+815,Wallstreetbets (WSB)
+816,WannaCry Ransomware
+817,Wash Trade
+818,Watchlist
+819,Weak Hands
+820,Web 1.0
+821,Web 2.0
+822,Web 3.0
+823,Web3 Foundation
+824,Wei
+825,Whale
+826,What Is the Financial Crimes Enforcement Network (FinCEN)?
+827,When Lambo
+828,When Moon
+829,White Label
+830,Whitelist
+831,Whitepaper
+832,Winding Down
+833,Winding Up
+834,Yield Farming
+835,YTD
+836,Zero Confirmation Transaction
+837,Zero Confirmation/Unconfirmed Transaction 
+838,Zero Knowledge Proof
+839,Zero Knowledge Rollup
+840,Zero Knowledge Rollups
+841,Zero-Knowledge Proof
+842,Zk-SNARKs
+843,Bitcoin
+844,Ethereum
+845,Binance Coin
+846,Tether
+847,Solana
+848,Cardano
+849,USD Coin
+850,XRP
+851,Terra
+852,Polkadot
+853,Avalanche
+854,Dogecoin
+855,Shiba Inu
+856,Polygon
+857,Binance USD
+858,Crypto.com Coin
+859,Wrapped Bitcoin
+860,Uniswap
+861,Algorand
+862,Litecoin
+863,buzzwords

@@ -14,4 +14,6 @@ async def send_tweets():
 
 
 def get_tweets():
-    pass
+    
+    person_to_track = settings.TWITTER_USERNAME
+    
