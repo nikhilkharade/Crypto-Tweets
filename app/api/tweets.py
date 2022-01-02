@@ -1,6 +1,8 @@
+from typing import Dict
 from fastapi import APIRouter
 from app.config import settings
-import tweepy as tw
+
+from app.utils.helpers import is_keyword_in_tweet,get_tweets
 
 route = APIRouter(
     tags=["app"],
@@ -12,27 +14,10 @@ route = APIRouter(
 
 @route.get("/send-tweets")
 async def send_tweets():
-    get_tweets()
-    return {'msg': '{}'.format(settings.TWITTER_API_KEY)}
+    tweet,tweet_id = get_tweets()
+    if all([tweet,tweet_id]):
+        #function of sending mail
+        pass
+    return {'msg': 'Success'}
 
-
-def get_tweets():
-
-    person_to_track = settings.TWITTER_USERNAME
-    auth = tw.OAuthHandler(settings.TWITTER_API_KEY,
-                           settings.TWITTER_SECRET_KEY)
-    auth.set_access_token(settings.TWITTER_ACCESS_TOKEN,
-                          settings.TWITTER_ACCESS_TOKEN_SECRET)
-    api = tw.API(auth, wait_on_rate_limit=True)
-    tweets = api.user_timeline(screen_name=person_to_track,
-                               count=30,
-                               include_rts=False,
-                               tweet_mode='extended'
-                               )
-    keywords = get_crypto_keywords()
-    for i in tweets:
-        tweet_text = i.full_text
-        if tweet_text in []:
-            tweet_id = i.id
-            #send mail function 
 
