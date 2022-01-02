@@ -1,5 +1,8 @@
+from typing import Dict
 from fastapi import APIRouter
 from app.config import settings
+
+from app.utils.helpers import is_keyword_in_tweet,get_tweets
 
 route = APIRouter(
     tags=["app"],
@@ -8,12 +11,13 @@ route = APIRouter(
     }
 )
 
+
 @route.get("/send-tweets")
 async def send_tweets():
-    return {'msg':'{}'.format(settings.TWITTER_API_KEY)}
+    tweet,tweet_id = get_tweets()
+    if all([tweet,tweet_id]):
+        #function of sending mail
+        pass
+    return {'msg': 'Success'}
 
 
-def get_tweets():
-    
-    person_to_track = settings.TWITTER_USERNAME
-    

@@ -40,8 +40,9 @@ async def get_crypto_names():
     existing_list.extend(crypto_currencies)
     final_data = [ [x] for x in existing_list]
     crypto_dict["buzzwords"] = final_data
+    #print(crypto_dict)
     final_data.append(crypto_dict)
-    df1 = pd.DataFrame(final_data)
+    df1 = pd.DataFrame(final_data, columns=["buzzwords"])
     print(df1)
     df1.to_csv("crypto_keywords.csv")
     
