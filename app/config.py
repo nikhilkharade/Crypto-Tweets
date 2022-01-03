@@ -10,4 +10,7 @@ class Settings(BaseSettings):
     TWITTER_USERNAME : str = config("TWITTER_USERNAME")
     TWITTER_ACCESS_TOKEN : str = config("TWITTER_ACCESS_TOKEN")
     TWITTER_ACCESS_TOKEN_SECRET : str = config("TWITTER_ACCESS_TOKEN_SECRET")
+    EMAIL_ID : str = config("EMAIL_ID")
+    EMAIL_PASSWORD : str = config("EMAIL_PASSWORD")
+    CLIENT_MAIL_ID : str = config("CLIENT_MAIL_ID")
 settings = Settings()
