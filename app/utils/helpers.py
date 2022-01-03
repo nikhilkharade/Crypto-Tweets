@@ -4,6 +4,7 @@ from typing import List,Dict
 from app.config import settings
 import tweepy as tw
 import os
+import smtplib
 
 def get_crypto_keywords() -> List:
     current_directory = os.getcwd()
@@ -40,10 +41,39 @@ def get_tweets():
     
     for tweet in tweets:
         is_crypto_tweet = is_keyword_in_tweet(tweet.full_text)
-        print(is_crypto_tweet)
+        print(tweet)
         if is_crypto_tweet:
             tweet_text = tweet.full_text
             tweet_id = tweet.id
             return tweet_text,tweet_id
     
     return '',''
+
+
+def send_email(**kwargs):
+    try: 
+    #Create your SMTP session 
+        smtp = smtplib.SMTP('smtp.gmail.com', 587) 
+
+    #Use TLS to add security 
+        smtp.starttls() 
+
+        #User Authentication 
+        smtp.login(settings.EMAIL_ID,settings.EMAIL_PASSWORD)
+
+        #Defining The Message
+        tweet = kwargs.get("tweet","")
+        tweet_id = kwargs.get("tweet_id",'')
+
+        message = "{} \n Tweet Link : https://twitter.com/twitter/statuses/{}".format(tweet,tweet_id) 
+
+        #Sending the Email
+        smtp.sendmail(settings.EMAIL_ID, settings.CLIENT_MAIL_ID ,message) 
+
+        #Terminating the session 
+        smtp.quit() 
+        print ("Email sent successfully!") 
+
+    except Exception as ex: 
+        print("Something went wrong....",ex)
+
